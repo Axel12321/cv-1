@@ -35,7 +35,7 @@ sidebar:
 
       - item: Cyber Security/Computer Networks
         link:
-	
+        
 career-profile:
     title: About Me
     summary: |
@@ -51,34 +51,42 @@ experiences:
       time: 2019 - 2020
       company: Eponymo Store, Karditsa
       details: |
-      	I I participated in the contstruction of my mother's online store.Here's the link: https://www.eponymostore.gr/
+       I participated in the contstruction of my mother's online store.Here's the link: https://www.eponymostore.gr/
+       
+    - role: Employee 
+      time: 2018 - 2019
+      company: BnB , Karditsa
+      details: |
+       I worked at internet cafe in my hometown for 1 year.
+       
+
 projects:
-    title: Projects
+    title: Knowledge
     intro: >
-     All my projects are on gitHub
+     I have a lot of experience on Cyber Security and on programming in a unix environment with c. I have also web develpment skills using HTML/CSS/PHP.
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Programming Skills
 
     toolset:
       - name: C
         level: 100%
 
       - name: Python
-        level: 85%
-
-      - name: SQL
-        level: 85%
+        level: 90%
 
       - name: C++
+        level: 80%
+
+      - name: HTML5 & CSS
         level: 70%
 
-      - name: HTML & CSS
+      - name: SQL
         level: 70%
-	
-	-name: PHP
-	level: 70%
-	
+
+      - name: PHP
+        level: 65%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
